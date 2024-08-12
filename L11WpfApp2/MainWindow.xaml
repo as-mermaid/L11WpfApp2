@@ -1,0 +1,112 @@
+﻿<Window x:Class="L11WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:L11WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="400">
+    <Grid>
+        <Path Data="M201.28571,540.71429 C217.38179,500.79603 201.75566,463.81549 189.97237,419.16135 178.22515,374.64394 170.29727,322.49985 201.42803,252.21493" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="289.5" Margin="179.594,252.214,0,0" Stretch="Fill" VerticalAlignment="Top" Width="29.577" StrokeThickness="4" Stroke="#FF0E470D"/>
+        <Path Data="M186.64355,412.28513 C212.35772,250.28655 420.64426,333.85727 330.64386,340.28575 244.05969,346.47021 210.48951,375.91573 252.8579,367.92837 331.2868,353.14281 217.50067,369.85694 189.2147,413.5704" HorizontalAlignment="Left" Height="101.519" Margin="186.643,313.052,0,0" Stretch="Fill" Stroke="#FE0D4412" VerticalAlignment="Top" Width="167.422" StrokeThickness="3">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF13641B" Offset="0"/>
+                    <GradientStop Color="#FF44ED53" Offset="1"/>
+
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+
+        <Path Data="M198.71429,219.92857 C162.07143,121.57143 129.42885,110.14243 112.07171,128.78529 94.714565,147.42815 164.78616,217.49972 198.21457,221.35685" HorizontalAlignment="Left" Height="101.027" Margin="109.35,117.472,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="90.364">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M206.42857,216.07143 C182.78507,157.07191 151.92815,95.357569 192.42815,91.500426 232.92815,87.643284 216.85682,162.21471 211.71391,209.14328" HorizontalAlignment="Left" Height="125.715" Margin="172.758,91.356,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="47.451">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M216.07143,215.42857 C233.57184,127.49911 249.00038,94.713528 274.71467,105.6421 300.42895,116.57067 275.35774,167.99952 216.21471,215.571" HorizontalAlignment="Left" Height="112.955" Margin="216.071,103.616,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="69.698">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M221.85714,223.78571 C292.71466,145.49962 313.9288,141.6424 326.78594,163.49954 339.64308,185.35668 274.71451,223.92816 223.28587,224.57102" HorizontalAlignment="Left" Height="73.561" Margin="221.857,152.01,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="107.578" RenderTransformOrigin="0.639,0.565">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M196.14286,227.64286 C139.57143,191 88.285567,166.07128 83.14271,194.99985 77.999853,223.92842 165.42838,236.78553 195.64271,229.71408" HorizontalAlignment="Left" Height="50.253" Margin="82.926,182.365,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="114.217">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M200.64286,232.14286 C122.21429,237.28571 95.357024,254.14356 103.71417,276.64356 112.07131,299.14356 191.14271,253.50014 202.07128,232.92844" HorizontalAlignment="Left" Height="51.584" Margin="102.253,232.143,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="100.818">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M212.85714,229.57143 C288.07143,216.07143 328.07188,224.57177 322.28617,247.71463 316.50045,270.85748 241.28594,253.50049 213.64301,231.00082" HorizontalAlignment="Left" Height="36.54" Margin="212.857,223.127,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="110.98">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M211.57143,233.42857 C263,263.64286 283.71471,283.71386 263.78614,293.99957 243.85757,304.28529 213.64327,275.35672 207.85759,241.92814" HorizontalAlignment="Left" Height="63.68" Margin="207.857,233.429,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="64.411">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M205.14286,236 C162.07143,277.14286 149.357,310.07143 172.49985,316.5 195.64271,322.92857 208.49983,270.85714 205.28557,244.5" HorizontalAlignment="Left" Height="82.045" Margin="161.105,236,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="45.669">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFD2F9F9" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+
+        </Path>
+        <Ellipse HorizontalAlignment="Left" Height="54.143" Margin="172.758,198.071,0,0" Stroke="Black" VerticalAlignment="Top" Width="57.049" RenderTransformOrigin="0.647,0.321">
+            <Ellipse.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="White" Offset="0.088"/>
+                    <GradientStop Color="#FFFFD100" Offset="0.78"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+    </Grid>
+</Window>
